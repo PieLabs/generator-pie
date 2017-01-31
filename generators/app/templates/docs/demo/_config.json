@@ -1,0 +1,16 @@
+{
+  "elements": {
+    "<%= pieName %>": "../.."
+  },
+  "models": [
+    {
+      "id": "1",
+      "element": "<%= pieName %>",
+      "answer": true,
+      "feedback": {
+        "correct": "Correct!",
+        "incorrect": "Incorrect!"
+      }
+    }
+  ]
+}
